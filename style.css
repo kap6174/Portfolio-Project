@@ -518,7 +518,9 @@ button:focus {
 .mb-aqua {
     background-color: rgb(26, 152, 202);
 }
-
+.mb-yellow {
+    background-color: rgb(201, 198, 13);
+}
 
 /*Percentage Classes */
 
@@ -543,6 +545,10 @@ button:focus {
     width: 50%;
 }
 
+.seventy-percent {
+    height: inherit;
+    width: 70%;
+}
 @media only screen and (max-width: 572px) {
     
     .timeline-box {
