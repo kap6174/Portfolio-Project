@@ -371,6 +371,11 @@ textarea {
     font-size: 1.2rem;
     margin: 40px 10px 10px;
 }
+#copyright{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: small;
+}
 
 input:focus,
 select:focus,
